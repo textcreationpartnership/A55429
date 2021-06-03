@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Pope burnt to ashes, or, Defiance to Rome being a perfect account how the exact image of His Holiness was solemnly carried in procession through the greatest part of the city of London, and at last exposed to the flames of a stately bonfire near the Temple-Gate in Fleet-street, on Friday the 17th of Novemb. 1676 : with loud acclamations of several thousand spectators, there being a terse of claret, a barrel of ale, and a barrel of beer there distributed amongst the beholders, which was far better excepted than the blood of the martyrs.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55429</idno><idno type="EEBO-CITATION">12276840</idno>
+  <idno type="VID">58463</idno>
+  <idno type="EEBO-PROQUEST">2240967110</idno>
+  
+            <idno type="STC">Wing P2918</idno>
+            <idno type="STC">ESTC R31934</idno>
+            <idno type="OCLC">12276840</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55429)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58463)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1511:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Pope burnt to ashes, or, Defiance to Rome being a perfect account how the exact image of His Holiness was solemnly carried in procession through the greatest part of the city of London, and at last exposed to the flames of a stately bonfire near the Temple-Gate in Fleet-street, on Friday the 17th of Novemb. 1676 : with loud acclamations of several thousand spectators, there being a terse of claret, a barrel of ale, and a barrel of beer there distributed amongst the beholders, which was far better excepted than the blood of the martyrs.</title>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B.H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Controversial literature.</term>
+               <term type="topical_term">Anti-Catholicism --  England.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58463:1"/>
+            <pb facs="tcp:58463:1"/>
+            <p>THE POPE Burnt to Ashes: OR Defiance to ROME.</p>
+            <p>Being a Perfect Account how the Exact Image of his Holiness was solemnly carried in Pro<g ref="char:EOLhyphen"/>cession through the greatest part of the City of <hi>LONDON.</hi>
+            </p>
+            <p>And at last Exposed to the Flames of a stately Bonfire near the Temple-Gate in <hi>Fleet-street,</hi> on <hi>Friday</hi> the 17th of <hi>Novemb.</hi> 1676. VVith loud Acclamations of several Thousands of Spectators.</p>
+            <p>There being a Terse of <hi>Claret,</hi> a Barrel of <hi>Ale,</hi> and a Barrel of <hi>Beer</hi> there distributed amongst the Beholders, which was far better excepted than the Blood of the Martyrs.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>B. H.</hi> 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb facs="tcp:58463:2"/>
+            <pb n="1" facs="tcp:58463:2"/>
+            <head>The new Procession and Burning of the <hi>POPE,</hi> &amp;c.</head>
+            <p>WHEN God with an out-stretched Arm, and long series of Miracles, had brought his People <hi>Israel</hi> out of their temporal Slavery in <hi>Egypt,</hi> he commanded them to tell it to their Children, and affect their off-spring with me<g ref="char:EOLhyphen"/>morials of that Deliverance. The same God hav<g ref="char:EOLhyphen"/>ing no less wonderfully freed this Nation from the Spiritual Bondage, and worse then Egyptian Dark<g ref="char:EOLhyphen"/>ness of <hi>Popery,</hi> it may not be unfit for us to Reflect often with Gratitude upon that Blessing, which though long since bestow'd, yet we to this day injoy<g ref="char:EOLhyphen"/>ing the happy Fruits in the Light and Purity of the Gospel, are doubtless obliged to be thankful for the same, and Imprint on out Children and Posterity, as well a due sence of the greatness of that Mercy, as a just detestation of the Popal Errors, Idolatries, Cruelties, and Usurpations.</p>
+            <pb n="2" facs="tcp:58463:3"/>
+            <p>As for the Solid part of the Controversie, cer<g ref="char:EOLhyphen"/>tainly never was Cause so shamefully baffled or more deservedly Tryumph'd over, than Popery has been, by the unanswerable Labours of Sundry of our Learned Divines, of whom, some are still Living Glories of our Church; nor can we re<g ref="char:EOLhyphen"/>flect on the absurdities of Roman Doctrines with<g ref="char:EOLhyphen"/>out remembring the Cruelty of those Practices whereby they Endeavour'd to inforce them; and therefore our people have often given publick Te<g ref="char:EOLhyphen"/>stimonies of their Abhorrency against such a blood<g ref="char:EOLhyphen"/>dy Faction, and contempt of all their vain plots and devices, to bring their exploded trumperies a<g ref="char:EOLhyphen"/>gain into request, and Act over once more the <hi>Ma<g ref="char:EOLhyphen"/>rian Tragedies,</hi> but scarce have we known a more signal Emblem on this occasion, then what we now beheld; which though some Jesuited supercilious Criticks may censure as a light and vain piece of pa<g ref="char:EOLhyphen"/>pageantry, yet it sufficiently discovers the Genius of the multitude, yet untainted, and retayning a setled Aversion to the old rediculous superstitions; ex<g ref="char:EOLhyphen"/>pressed as follows,</p>
+            <p>On <hi>Fryday</hi> the 17th of this instant <hi>November,</hi> being the Birth-day of that Renowned Maiden Queen <hi>Eliz.</hi> It being customary in honour to her deserving memory, to make Bonfires in the E<g ref="char:EOLhyphen"/>vening; some <hi>Gentlemen</hi> were pleased to bring forth into the open street, in <hi>Broad-street,</hi> a very
+<pb n="3" facs="tcp:58463:3"/>magnificent Effigies of a <hi>Pope,</hi> properly habited in all his pontificalibus, so curiously done, that it was judged by most to have cost a considerable Sum for materials and workmanship. The body was made of Past-bord covered over with painted Callicue, and set off with all necessary Lustre, his Triple Crown very large and fair, being all guilded over with fine <hi>Gold;</hi> under his feet was a Bible trampled on, and a Purse close hugg'd under his Lest Arm; he was placed siting in a Chair of State, with his Crosier, Keys, Bulls, Pardons, Indulgences, <hi>Agnus Dei,</hi> and other Implements about him, and to represent him compleatly as the <hi>Mystical Whore,</hi> they had put him on Artificial Locks, finely curled and powdered, with a vast Tower or Fruzz on his Forehead, but just behind him on his Right shoulder was a Devil lean<g ref="char:EOLhyphen"/>ing towards him, and sometimes whispering with his Holiness.</p>
+            <p>And thus being bourn up by men underneath un<g ref="char:EOLhyphen"/>seen, as Pageants are carried, he was conveyed into <hi>Cornhil,</hi> where neat <hi>Finch Lane</hi> end, there being a great Bonfire, they stopt for some time, the young<g ref="char:EOLhyphen"/>er Spectators divertising themselves with joques, merriment, and exclamations.</p>
+            <p>From thence they proceeded, as in a Solemn pro<g ref="char:EOLhyphen"/>cession, by the <hi>Exchange,</hi> through <hi>Cheapside</hi> and <hi>Pauls Church-yard,</hi> into <hi>Fleet-street,</hi> where at the <hi>Temple
+<pb n="4" facs="tcp:58463:4"/>Gate</hi> was a Bon-fire of above a Load of Wood rea<g ref="char:EOLhyphen"/>dy to entertain him; his Holiness approaching the Flames, did several times start and much implore his Associate-Devil to preserve him, but in vain, for after some time of sport, they cast Pope, Devil, Chair and all into the midst of the Fire, which was followed by a shout for half an hour, so loud, as under the favour of a Metaphor, one might say, it might be heard to <hi>Rome</hi> it self; and a Terse of Claret, a Bar<g ref="char:EOLhyphen"/>rel of Beer, and a Barrel of Ale, given by some Per<g ref="char:EOLhyphen"/>sons of quallity on this occasion, was distributed a<g ref="char:EOLhyphen"/>mongst the croud.</p>
+            <p>Let not the old <hi>Gentleman</hi> of <hi>Italy</hi> complain for this Irreverence to his Image, he may remember his Ancestors jested more severely with us heretofore; Burning many of our Fore-Fathers, not in Effigie, but really, and with exquisite Torments, and though those barbarous usages are too much forgot by some, and excus'd and minc'd by others, who would fain represent Popery as a very Innocent toothless thing, yet we know full well, that a Tiger is still a Tiger though in a Cage, and that a <hi>Jesuite</hi> may seem a Saint in the Streets, but trace him to his Seminary, he is a Fox, and in the Inquisition a Lyon Rampant, since we are therefore freed from the <hi>Roman</hi> yoake, let us pray we may never Relapse into that slavery, and lick up those abominations which our Ancestors with so much Indignation spit out; let us not aban<g ref="char:EOLhyphen"/>don
+<pb n="5" facs="tcp:58463:4"/>those Glorious Priviledges which they purchas<g ref="char:EOLhyphen"/>ed at the price of their Lives, nor turn Renegado's to those truths which they with a true Christian Gene<g ref="char:EOLhyphen"/>rosity Sealed with their Blood. Let us not heap upon our selves the Infamy of <hi>Apostates</hi> in the very same things whereby they won the Glory of Mar<g ref="char:EOLhyphen"/>tyrs. In a word,—let <hi>Popery</hi> (that painted Reli<g ref="char:EOLhyphen"/>gion) perish with this Picture-Pope, and not so much as its Ghost remain to Haunt and Disturb us, nor our Posterity.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
